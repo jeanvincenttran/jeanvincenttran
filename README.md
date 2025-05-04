@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jean-Vincent Tran
+# 👋 Hello, I'm Jean-Vincent TRAN
 
 🎓 I'm a first-year computer science student at [EPITA](https://www.epita.fr), a leading engineering school in Paris.  
 💻 I'm passionate about programming, artificial intelligence, and game development.  
