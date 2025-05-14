@@ -1,29 +1,53 @@
-# 👋 Hello, I'm Jean-Vincent TRAN
+# Hi there, I'm Jean-Vincent TRAN 👋
 
-🎓 I'm a first-year computer science student at [EPITA](https://www.epita.fr), a leading engineering school in Paris.  
-💻 I'm passionate about programming, artificial intelligence, and game development.  
-🚑 I'm also a certified first-aid responder, volunteering with the French Civil Protection.  
+## 🚀 About Me
 
-## 🛠️ Tech Stack & Tools
-- Languages: `C#`, `Python`, `OCaml`, `LaTeX`
-- Tools: `Rider`, `Godot`, `Git`, `GitHub`
-- Areas of interest: Software Engineering, Artificial Intelligence, Cybersecurity
+* I'm a first-year Computer Science student at [EPITA](https://www.epita.fr/).
+* I'm also a dedicated First Responder with [Protection Civile Paris Seine](https://www.protection-civile.org/).
 
-## 🎮 Current Project
-I'm currently working on a video game where I’m developing the AI for non-playable characters (NPCs), focusing on decision trees and finite state machines. I’m learning a lot about behavior modeling and game logic.
+## 💻 Tech
 
-## 🔍 What I'm Looking For
-- Collaborations on beginner to intermediate programming projects
-- Open-source contributions to improve my skills
-- Discussions around game development, algorithms, or anything IT-related
+My journey in tech involves:
 
-## 📫 Contact
-- Discord: `v1nc3ns`
-- LinkedIn: [jeanvincenttran](https://www.linkedin.com/in/jeanvincenttran/)
+* **Studies:**
+    * Deep diving into algorithms and data structures.
+    * Exploring the fundamentals of AI and ML.
+* **Projects:**
+    * Developing **AI** for a video game project ("Cypherless" by Puffin Studio).
+    * Exploring **Behavior Trees** and **Finite State Machines**.
+* **Tools & Technologies I Use:**
+    * Languages      : `C#`, `Python`, and more as I learn!
+    * IDE            : `Rider`
+    * Engine         : `Godot`
+    * 3D Modeling: `Blender`
+    * Version Control: `Git`, `GitHub`
+    * Documentation: `LaTeX` (via Overleaf)
+* **Interests within CS:**
+    * AI applications in **video games**.
+    * The potential of tech in **Finance** and **Healthcare**.
 
-## ⚡ Fun Fact
-My life is not a joke because joke have meaning.
+## ⛑️ Volunteering
+
+Beyond the screen, I'm committed to community service:
+
+* **First Responder**
+    * Providing emergency first aid and support at public events and during crises.
+    * Proud to have contributed to large-scale events, including the Paris Olympic Games.
+
+## 🌍 Hobbies
+
+When I'm not coding or volunteering, you can find me:
+
+* 📚 Lost in a good book.
+* 🏃‍♂️ Hitting the pavement for a run.
+* 🧘 Practicing meditation for focus.
+* 📸 Capturing moments through photography.
+* ✈️ Immersing myself in new cultures.
+
+## 🔗 Connect with me
+
+* Let's connect on [LinkedIn](https://www.linkedin.com/in/jeanvincenttran)
 
 ---
 
-> *“Debugging code is like first aid — find the problem fast, apply the right fix, and keep calm.”*
+> "The world is cursed, but still you find reasons to keep living." - Osa, Princess Mononoke
