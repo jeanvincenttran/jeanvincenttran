@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 * I'm a first-year **Computer Science student** at [EPITA](https://www.epita.fr/).
-* I'm also a dedicated **First Responder** with [Protection Civile Paris Seine](https://www.protection-civile.org/).
+* I'm also a dedicated **First Responder** at [Protection Civile](https://www.protection-civile.org/).
 
 ## 💻 Tech
 
